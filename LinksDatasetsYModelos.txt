@@ -1,0 +1,3 @@
+
+Panda VS Bear Dataset y Modelo: https://drive.google.com/drive/folders/1ZUud6TFvxQZQ-NTyNZWfx-PdUM7HqpM9?usp=sharing
+Dog VS Cat Dataset y Modelo: https://drive.google.com/drive/folders/1Bay9eprsVpszNLenSoVvxmtzqe2pbqdh?usp=sharing
