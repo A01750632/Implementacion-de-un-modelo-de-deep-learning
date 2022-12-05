@@ -1,5 +1,5 @@
 #  Implementación de un modelo de deep learning
-### Anotaciones de los modelos
+### Anotaciones de los modelos 
 
 Se realizaron las clasificaciones de los datasets presentados en dos modelos diferentes, uno previamente configurado disponible en el hub de tensorflow,
 
@@ -16,3 +16,9 @@ mismo caso para los osos.
 Pero en el caso de los perros y gatos, realmente se tienen muchas diferencias entre los tipos de gatos y perros que existen, por lo tanto, es mucho más difícil conseguir un mejor performance del modelo,
 
 ya que se tiene que fijar en muchos más patrones, teniendo aun así esto en cuenta, la verdad es que los resultados fueron bastante satisfactorios.
+
+#### Correcciones
+
+
+se realizó la carga de imágenes custom, además de los early stopping callbacks para mejorar los modelos
+
